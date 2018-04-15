@@ -1,0 +1,1311 @@
+# depslib dependency file v1.0
+1474552030 source:d:\code\projects\assimptest\main.cpp
+	<iostream>
+	"GL/glew.h"
+	"SFML/Graphics.hpp"
+	"SFML/OpenGL.hpp"
+	<iostream>
+	<string>
+	<cmath>
+	<cstdlib>
+	<vector>
+	<unordered_map>
+	<stdlib.h>
+	<time.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/quaternion.hpp>
+	"aCamera.h"
+	"aEventManager.h"
+	"aInput.h"
+	"aShader.h"
+	"aRenderMeshData.h"
+	"a3dObjectData.h"
+	"a3dObjectRenderData.h"
+	"aRender3dObjects.h"
+	"test.h"
+
+1468452484 source:d:\code\projects\assimptest\src\amesh_manager.cpp
+	"aMesh_Manager.h"
+
+1468453464 d:\code\projects\assimptest\include\amesh_manager.h
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+
+1472596946 source:d:\code\projects\assimptest\src\ashader.cpp
+	"aShader.h"
+
+1472596814 d:\code\projects\assimptest\include\ashader.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<unordered_map>
+	"GL/glew.h"
+	"SFML/OpenGL.hpp"
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1471982401 d:\code\projects\assimptest\include\ainput.h
+	"SFML/Graphics.hpp"
+	<string>
+	<iostream>
+
+1471982403 source:d:\code\projects\assimptest\src\ainput.cpp
+	"aInput.h"
+
+1471984562 source:d:\code\projects\assimptest\src\aeventmanager.cpp
+	"aEventManager.h"
+
+1471649383 d:\code\projects\assimptest\include\aeventmanager.h
+	"SFML/Graphics.hpp"
+	"aInput.h"
+
+1468563282 source:d:\code\projects\assimptest\src\amesh.cpp
+	"aMesh.h"
+
+1468565069 d:\code\projects\assimptest\include\amesh.h
+	<string>
+	<glm/glm.hpp>
+
+1468563362 source:d:\code\projects\assimptest\src\anode.cpp
+	"aNode.h"
+
+1468565069 d:\code\projects\assimptest\include\anode.h
+	<string>
+	<glm/glm.hpp>
+
+1468563195 source:d:\code\projects\assimptest\src\ascene.cpp
+	"aScene.h"
+
+1468565106 d:\code\projects\assimptest\include\ascene.h
+	"aMesh.h"
+	"aNode.h"
+
+1468619982 source:d:\code\projects\assimptest\src\acamera.cpp
+	"aCamera.h"
+
+1470457771 d:\code\projects\assimptest\include\acamera.h
+	"SFML/OpenGL.hpp"
+	<glm/glm.hpp>
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtx/rotate_vector.hpp"
+	"aInput.h"
+
+1469648602 source:d:\code\projects\assimptest\src\aextranodedata.cpp
+	"aExtraNodeData.h"
+
+1469648698 d:\code\projects\assimptest\include\aextranodedata.h
+
+1471879103 d:\code\projects\assimptest\include\arendermeshdata.h
+	<unordered_map>
+
+1471064967 source:d:\code\projects\assimptest\src\arendermeshdata.cpp
+	"aRenderMeshData.h"
+
+1472175816 source:d:\code\projects\assimptest\src\a3dobjectdata.cpp
+	"a3dObjectData.h"
+
+1472175805 d:\code\projects\assimptest\include\a3dobjectdata.h
+	<unordered_map>
+	<iostream>
+	<sstream>
+	"GL/glew.h"
+	"SFML/OpenGL.hpp"
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"SFML/Graphics.hpp"
+
+1471715177 d:\code\projects\assimptest\include\test.h
+	<unordered_map>
+	<iostream>
+	"GL/glew.h"
+	"SFML/OpenGL.hpp"
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+
+1471718483 source:d:\code\projects\assimptest\src\test.cpp
+	"test.h"
+
+1472051322 source:d:\code\projects\assimptest\src\a3dobjectrenderdata.cpp
+	"a3dObjectRenderData.h"
+
+1472051296 d:\code\projects\assimptest\include\a3dobjectrenderdata.h
+	<glm/glm.hpp>
+	"a3dObjectData.h"
+
+1472839757 source:d:\code\projects\assimptest\src\arender3dobjects.cpp
+	"aRender3dObjects.h"
+
+1472839757 d:\code\projects\assimptest\include\arender3dobjects.h
+	<unordered_map>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/quaternion.hpp>
+	"SFML/Graphics.hpp"
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	"a3dObjectRenderData.h"
+	"aCamera.h"
+	"aShader.h"
+
+1523831623 source:d:\code\trash\projects\assimptest\main.cpp
+	<iostream>
+	"GL/glew.h"
+	"SFML/Graphics.hpp"
+	"SFML/OpenGL.hpp"
+	<iostream>
+	<string>
+	<cmath>
+	<cstdlib>
+	<vector>
+	<unordered_map>
+	<stdlib.h>
+	<time.h>
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/quaternion.hpp>
+	"aCamera.h"
+	"aEventManager.h"
+	"aInput.h"
+	"aShader.h"
+	"aRenderMeshData.h"
+	"a3dObjectData.h"
+	"a3dObjectRenderData.h"
+	"aRender3dObjects.h"
+	"test.h"
+
+1439268442 d:\code\trash\libs\sfml-2.3.2\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1453501206 d:\code\trash\libs\sfml-2.3.2\include\gl\glu.h
+	<windows.h>
+	<GL/gl.h>
+
+1453501460 d:\code\trash\libs\sfml-2.3.2\include\gl\gl.h
+	<windows.h>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/FileInputStream.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/MemoryInputStream.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Time.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\fileinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdio>
+	<string>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Export.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\memoryinputstream.hpp
+	<SFML/Config.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Export.hpp>
+	<cstdlib>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\utf.inl
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\string.inl
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\thread.inl
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\threadlocalptr.inl
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\vector2.inl
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\system\vector3.inl
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\window\contextsettings.hpp
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\window\windowstyle.hpp
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\rect.inl
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\primitivetype.hpp
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1468022582 d:\code\trash\libs\sfml-2.3.2\include\sfml\opengl.hpp
+	<SFML/Config.hpp>
+	<windows.h>
+	<GL/gl.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<OpenGLES/ES1/gl.h>
+	<OpenGLES/ES1/glext.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\importer.hpp
+	"types.h"
+	"config.h"
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\types.h
+	<sys/types.h>
+	<memory.h>
+	<math.h>
+	<stddef.h>
+	<string.h>
+	<limits.h>
+	"defs.h"
+	"vector3.h"
+	"vector2.h"
+	"color4.h"
+	"matrix3x3.h"
+	"matrix4x4.h"
+	"quaternion.h"
+	<cstring>
+	<new>
+	<string>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"vector2.inl"
+	"vector3.inl"
+	"color4.inl"
+	"quaternion.inl"
+	"matrix3x3.inl"
+	"matrix4x4.inl"
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\defs.h
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\vector3.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\compiler\pushpack1.h
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\compiler\poppack1.h
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\vector2.h
+	<cmath>
+	<math.h>
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\color4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\matrix3x3.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\matrix4x4.h
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\quaternion.h
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\vector2.inl
+	"vector2.h"
+	<cmath>
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\vector3.inl
+	"vector3.h"
+	<cmath>
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\color4.inl
+	"color4.h"
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\quaternion.inl
+	"quaternion.h"
+	<cmath>
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\matrix3x3.inl
+	"matrix3x3.h"
+	"matrix4x4.h"
+	<algorithm>
+	<cmath>
+	<limits>
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\matrix4x4.inl
+	"matrix4x4.h"
+	"matrix3x3.h"
+	"quaternion.h"
+	<algorithm>
+	<limits>
+	<cmath>
+	<math.h>
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\config.h
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\scene.h
+	"types.h"
+	"texture.h"
+	"mesh.h"
+	"light.h"
+	"camera.h"
+	"material.h"
+	"anim.h"
+	"metadata.h"
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\texture.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\mesh.h
+	"types.h"
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\light.h
+	"types.h"
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\camera.h
+	"types.h"
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\material.h
+	"types.h"
+	"./Compiler/pushpack1.h"
+	"./Compiler/poppack1.h"
+	"material.inl"
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\material.inl
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\anim.h
+	"types.h"
+	"quaternion.h"
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\metadata.h
+	<assert.h>
+	"Compiler/pstdint.h"
+	<stdint.h>
+	<string>
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\compiler\pstdint.h
+	<stddef.h>
+	<limits.h>
+	<signal.h>
+	<stdint.h>
+	<wchar.h>
+
+1468288716 d:\code\trash\libs\assimp3.1.1\include\assimp\postprocess.h
+	"types.h"
+
+1468026188 d:\code\trash\libs\glm\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1468026188 d:\code\trash\libs\glm\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<type_traits>
+	<cstdint>
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\setup.hpp
+	<cassert>
+	<cstddef>
+	<cuda.h>
+	<intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+	<__config>
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\precision.hpp
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\_swizzle.hpp
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\_swizzle_func.hpp
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_vec2.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_vec3.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_vec4.inl
+	"type_vec4_sse2.inl"
+	"type_vec4_avx.inl"
+	"type_vec4_avx2.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_vec4_sse2.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_vec4_avx.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_vec4_avx2.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x2.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat2x2.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x3.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat2x3.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat2x4.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat2x4.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x2.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat3x2.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x3.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat3x3.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat3x4.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat3x4.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x2.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat4x2.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x3.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat4x3.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_mat4x4.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_trigonometric.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_trigonometric.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_vec1.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cmath>
+	<cassert>
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_vector_relational.inl
+	<limits>
+
+1468026188 d:\code\trash\libs\glm\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1468026188 d:\code\trash\libs\glm\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\type_half.inl
+
+1468026188 d:\code\trash\libs\glm\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1468026188 d:\code\trash\libs\glm\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"func_common.hpp"
+	"func_vector_relational.hpp"
+	"func_integer.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1468026188 d:\code\trash\libs\glm\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\gtc\constants.inl
+	<limits>
+
+1468026188 d:\code\trash\libs\glm\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1468026189 d:\code\trash\libs\glm\include\glm\gtx\quaternion.hpp
+	"../glm.hpp"
+	"../gtc/constants.hpp"
+	"../gtc/quaternion.hpp"
+	"../gtx/norm.hpp"
+	"quaternion.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+
+1468026189 d:\code\trash\libs\glm\include\glm\gtx\norm.hpp
+	"../glm.hpp"
+	"../gtx/quaternion.hpp"
+	"norm.inl"
+
+1468026189 d:\code\trash\libs\glm\include\glm\gtx\norm.inl
+
+1468026189 d:\code\trash\libs\glm\include\glm\gtx\quaternion.inl
+	<limits>
+	"../gtc/constants.hpp"
+
+1470461371 d:\code\trash\projects\assimptest\include\acamera.h
+	"SFML/OpenGL.hpp"
+	<glm/glm.hpp>
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtx/rotate_vector.hpp"
+	"aInput.h"
+
+1468026189 d:\code\trash\libs\glm\include\glm\gtx\rotate_vector.hpp
+	"../glm.hpp"
+	"../gtx/transform.hpp"
+	"rotate_vector.inl"
+
+1468026189 d:\code\trash\libs\glm\include\glm\gtx\transform.hpp
+	"../glm.hpp"
+	"../gtc/matrix_transform.hpp"
+	"transform.inl"
+
+1468026189 d:\code\trash\libs\glm\include\glm\gtx\transform.inl
+
+1468026189 d:\code\trash\libs\glm\include\glm\gtx\rotate_vector.inl
+
+1471986001 d:\code\trash\projects\assimptest\include\ainput.h
+	"SFML/Graphics.hpp"
+	<string>
+	<iostream>
+
+1471652983 d:\code\trash\projects\assimptest\include\aeventmanager.h
+	"SFML/Graphics.hpp"
+	"aInput.h"
+
+1472600414 d:\code\trash\projects\assimptest\include\ashader.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<unordered_map>
+	"GL/glew.h"
+	"SFML/OpenGL.hpp"
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1468026188 d:\code\trash\libs\glm\include\glm\gtc\type_ptr.hpp
+	"../gtc/quaternion.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1468026188 d:\code\trash\libs\glm\include\glm\gtc\type_ptr.inl
+	<cstring>
+
+1471882703 d:\code\trash\projects\assimptest\include\arendermeshdata.h
+	<unordered_map>
+
+1472179405 d:\code\trash\projects\assimptest\include\a3dobjectdata.h
+	<unordered_map>
+	<iostream>
+	<sstream>
+	"GL/glew.h"
+	"SFML/OpenGL.hpp"
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+	"SFML/Graphics.hpp"
+
+1472054896 d:\code\trash\projects\assimptest\include\a3dobjectrenderdata.h
+	<glm/glm.hpp>
+	"a3dObjectData.h"
+
+1472843357 d:\code\trash\projects\assimptest\include\arender3dobjects.h
+	<unordered_map>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/quaternion.hpp>
+	"SFML/Graphics.hpp"
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	"a3dObjectRenderData.h"
+	"aCamera.h"
+	"aShader.h"
+
+1471718777 d:\code\trash\projects\assimptest\include\test.h
+	<unordered_map>
+	<iostream>
+	"GL/glew.h"
+	"SFML/OpenGL.hpp"
+	<assimp/Importer.hpp>
+	<assimp/scene.h>
+	<assimp/postprocess.h>
+
+1472179416 source:d:\code\trash\projects\assimptest\src\a3dobjectdata.cpp
+	"a3dObjectData.h"
+
+1472054922 source:d:\code\trash\projects\assimptest\src\a3dobjectrenderdata.cpp
+	"a3dObjectRenderData.h"
+
+1468623582 source:d:\code\trash\projects\assimptest\src\acamera.cpp
+	"aCamera.h"
+
+1471988162 source:d:\code\trash\projects\assimptest\src\aeventmanager.cpp
+	"aEventManager.h"
+
+1471986003 source:d:\code\trash\projects\assimptest\src\ainput.cpp
+	"aInput.h"
+
+1472843357 source:d:\code\trash\projects\assimptest\src\arender3dobjects.cpp
+	"aRender3dObjects.h"
+
+1471068567 source:d:\code\trash\projects\assimptest\src\arendermeshdata.cpp
+	"aRenderMeshData.h"
+
+1472600546 source:d:\code\trash\projects\assimptest\src\ashader.cpp
+	"aShader.h"
+
+1471722083 source:d:\code\trash\projects\assimptest\src\test.cpp
+	"test.h"
+

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="AssimpTest" />
+		<Option pch_mode="2" />
+		<Option compiler="sfml23" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/AssimpTest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="sfml23" />
+				<Compiler>
+					<Add option="-O3" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/a3dObjectData.h" />
+		<Unit filename="include/a3dObjectRenderData.h" />
+		<Unit filename="include/aCamera.h" />
+		<Unit filename="include/aEventManager.h" />
+		<Unit filename="include/aInput.h" />
+		<Unit filename="include/aRender3dObjects.h" />
+		<Unit filename="include/aRenderMeshData.h" />
+		<Unit filename="include/aShader.h" />
+		<Unit filename="include/test.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/a3dObjectData.cpp" />
+		<Unit filename="src/a3dObjectRenderData.cpp" />
+		<Unit filename="src/aCamera.cpp" />
+		<Unit filename="src/aEventManager.cpp" />
+		<Unit filename="src/aInput.cpp" />
+		<Unit filename="src/aRender3dObjects.cpp" />
+		<Unit filename="src/aRenderMeshData.cpp" />
+		<Unit filename="src/aShader.cpp" />
+		<Unit filename="src/test.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
